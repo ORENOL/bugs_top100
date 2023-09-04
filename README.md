@@ -4,7 +4,7 @@
 
 ## 환경 설정 및 실행
 
-```bash
+```bas
 (venv) $ pip install -r requirements.txt
 (venv) $ python bugs_top100/bugs.py
 ```
@@ -12,7 +12,7 @@
 ## 예제
 
 ```python
-$ pip install git+https://github.com/sigmadream/bugs_top100
+$ pip install git+https://github.com/ORENOL/bugs_top100
 $ python
 
 >>> from bugs_top100 import get_songs
